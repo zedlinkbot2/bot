@@ -1,5 +1,3 @@
---By @SoLiD021
---By @SoLiD021
 do
 local function silent_by_reply(extra, success, result) 
   vardump(result)

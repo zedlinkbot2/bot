@@ -224,7 +224,6 @@ function create_config( )
     "savefile",
     "groupmanager",
     "on-off",
-    "version",
     "solid"
     },
     sudo_users = {157059515,136701650,tonumber(our_id)},--Sudo users

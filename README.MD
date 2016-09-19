@@ -41,9 +41,3 @@ killall screen
 killall tmux
 killall telegram-cli
 tmux new-session -s script "bash beyond.sh -t"
-###اگر مشکلی داشتید به لینک زیر بیاید و مطرح کنید
-###If You Have Any Problem With Source, Join To Link And Ask About Your Problem
-#[White And TeleBeyond Support](https://telegram.me/joinchat/DH-5lD7jQzzsY5f8ngQnaQ)
-
-#موفق باشید -_-
-#Good Luck -_-
